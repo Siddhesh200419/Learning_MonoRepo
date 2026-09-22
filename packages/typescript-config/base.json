@@ -5,7 +5,7 @@
         "strict": true,
         "esModuleInterop": true,
         "skipLibCheck": true,
-        "verbalatimModuleSyntax": true,
+        "verbatimModuleSyntax": true,
         "moduleDetection": "force",
         "noUnusedLocals": true,
         "noUnusedParameters": true,
