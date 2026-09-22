@@ -1,0 +1,16 @@
+{
+  "name": "monorepolearning",
+  "private": true,
+  "version": "1.0.0",
+  "packageManager": "pnpm@10.33.0",
+  "scripts": {
+    "dev":"lerna run dev --parallel",
+    "build":"lerna run build",
+    "test":"lerna run test",
+    "lint":"lerna run lint"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^10.0.1"
+  }
+}
